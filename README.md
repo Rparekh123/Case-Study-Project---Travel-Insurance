@@ -1,1 +1,1 @@
-# Case-Study-Project---Travel-Insurance
+# Case Study Project - Travel Insurance
